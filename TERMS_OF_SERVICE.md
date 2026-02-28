@@ -28,4 +28,4 @@ We reserve the right to suspend or terminate your access to the Application if y
 
 ## 6. Contact
 
-For support or inquiries regarding these terms, please contact: [Your Email/Contact Info]
+For support or inquiries regarding these terms, please contact: bgill55@kixxsquare.com
