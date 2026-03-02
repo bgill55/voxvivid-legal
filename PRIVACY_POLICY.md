@@ -37,4 +37,4 @@ We may update this policy from time to time. We will notify you of any significa
 
 ## 6. Contact Us
 
-If you have any questions about this Privacy Policy, please contact us at: bgill55@kixxsquare.com
+If you have any questions about this Privacy Policy, please contact us at: support@voxvivid.com
