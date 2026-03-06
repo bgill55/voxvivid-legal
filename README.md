@@ -31,9 +31,9 @@ With near-zero manual input, you can generate an entire month of high-fidelity s
 
 When you input a brand URL, VoxVivid doesn't just read the content—it **becomes the brand**. The dynamic Theme Engine analyzes the site's styling and transforms the entire application interface in real-time. Buttons, glows, panels, and typography morph to match your specific 8-color palette, providing a native, highly personalized creative workspace.
 
-### 🎬 Cinematic Video & Vibe Audio
+### 🚀 3-Tier Generation & Vibe Audio
 
-VoxVivid orchestrates professional, high-resolution visual generation combined with real-time instrumental audio synthesis. Whether you are baking a 4K product reel or generating a perfectly sound-tracked campaign, the focus is entirely on maintaining a premium, "anti-cringe" aesthetic.
+VoxVivid orchestrates professional, high-resolution visual and video generation across three specialized modes (IMAGE, REEL, CAMPAIGN). Combined with real-time instrumental audio synthesis, VoxVivid ensures all generated media maintains a premium, "anti-cringe" aesthetic tailored explicitly to your brand.
 
 ### 🔔 Background Autonomy
 
