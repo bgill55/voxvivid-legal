@@ -1,40 +1,54 @@
 # Privacy Policy for VoxVivid
 
-**Last Updated:** February 28, 2026
+**Last Updated:** March 11, 2026
 
-VoxVivid ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our application to interact with third-party social media platforms like TikTok.
+VoxVivid ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our application to interact with third-party social media platforms and AI services.
 
 ## 1. Information We Collect
 
-When you connect your TikTok account to VoxVivid, we collect:
+When you use VoxVivid, we may collect the following information:
 
-- **Profile Information:** Your TikTok OpenID, display name, and avatar URL.
-- **Access Tokens:** We store OAuth access tokens provided by TikTok to facilitate content publishing on your behalf.
-- **Content Metadata:** Information about the videos you choose to publish through our platform.
+- **Identity Mirroring Data:** Brand values, target audience descriptions, and media assets (images/videos) provided by you to train or guide our AI "Vivid Identity" engine.
+- **Account Information:** Name, email address, and profile data from authenticated third-party sources (e.g., Google OAuth, TikTok).
+- **Payment Information:** Payment processing is handled securely by Stripe. We do not store your credit card numbers on our servers; we only retain metadata related to your subscription status and transaction history.
+- **Technical Data:** Browser `localStorage` is used to persist your application state (e.g., current campaign, mirrored identity) to ensure a seamless experience across sessions.
+- **Access Tokens:** We store OAuth access tokens provided by third-party platforms (e.g., TikTok) to facilitate content publishing on your behalf.
 
 ## 2. How We Use Your Information
 
-We use the collected data solely to:
+We use the collected data to:
 
-- Authenticate your connection to TikTok.
-- Facilitate the "Direct Post" functionality as requested by you.
-- Display your connection status within the VoxVivid dashboard.
+- **Generate AI Content:** Process your brand data through third-party AI models (e.g., Google Gemini and Veo) to generate marketing content.
+- **Maintain State:** Use local browser storage to keep your active work-in-progress synced across page refreshes.
+- **Facilitate Publishing:** Connect to third-party social media platforms like TikTok for "Direct Post" functionality.
+- **Process Payments:** Manage your subscriptions and credits through Stripe.
+- **Community Notifications:** Send automated updates to connected Discord channels via webhooks.
 
-**We do not sell, rent, or share your data with third parties for marketing purposes.**
+**We do not sell, rent, or share your data with third parties for their independent marketing purposes.**
 
-## 3. Data Storage and Security
+## 3. Third-Party Service Providers
 
-Your access tokens are stored securely in an encrypted server-side database. We implement industry-standard security measures to prevent unauthorized access or disclosure of your data.
+VoxVivid relies on high-fidelity third-party infrastructure to deliver our services. Your data may be processed by:
 
-## 4. Data Retention and Deletion
+- **Google Cloud Platform:** For AI model execution (Gemini/Veo) and secure media storage (GCS).
+- **Stripe:** For secure payment processing and subscription billing.
+- **TikTok:** For direct media publishing.
+- **Discord:** For webhook-based server notifications.
 
-- **Revocation:** You can disconnect VoxVivid from your TikTok account at any time via the "Settings" menu in our app or through your TikTok security settings.
-- **Deletion:** Disconnecting a platform immediately and permanently deletes the associated access tokens from our servers. You may request full account deletion by contacting support.
+## 4. Data Storage and Security
 
-## 5. Changes to This Policy
+We implement industry-standard security measures, including encryption for access tokens and secure API communication. Media assets are hosted on secure, authenticated Google Cloud Storage buckets.
 
-We may update this policy from time to time. We will notify you of any significant changes by updating the "Last Updated" date at the top of this document.
+## 5. Data Retention and Deletion
 
-## 6. Contact Us
+- **Revocation:** You can disconnect third-party accounts at any time via the "Settings" menu or your platform's security settings.
+- **Deletion:** You may request full account deletion, including all brand data and generated history, by contacting support.
+- **Local Storage:** You can clear your application state at any time by using the "Reset Workspace" button in the Studio or clearing your browser's local storage.
 
-If you have any questions about this Privacy Policy, please contact us at: support@voxvivid.com
+## 6. Changes to This Policy
+
+We continue to adapt as we push the boundaries of AI-native branding. We will notify you of any significant changes by updating the "Last Updated" date at the top of this document.
+
+## 7. Contact Us
+
+If you have any questions about this Privacy Policy, please contact us at: <support@voxvivid.com>
