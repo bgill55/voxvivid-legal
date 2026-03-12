@@ -1,19 +1,13 @@
-<div align="center">
-
 # ⚡ VoxVivid
 
-### The World's Most Intelligent Identity Mirroring Engine
+## The World's Most Intelligent Identity Mirroring Engine
 
-_v2.2.1: Sacred Truth & Vivid Creativity_
-
-<br/>
+### v2.2.1: Sacred Truth & Vivid Creativity
 
 [![Status](https://img.shields.io/badge/status-Live-9d00ff?style=for-the-badge&logo=fastapi&logoColor=white)](https://voxvivid.com)
-[![UX](https://img.shields.io/badge/UX-Premium-00f5ff?style=for-the-badge&logo=figma&logoColor=white)](#)
+[![UX](https://img.shields.io/badge/UX-Premium-00f5ff?style=for-the-badge&logo=figma&logoColor=white)](https://voxvivid.com)
 [![Compliance](https://img.shields.io/badge/compliance-OAuth-7c3aed?style=for-the-badge&logo=shield&logoColor=white)](./PRIVACY_POLICY.md)
 [![License](https://img.shields.io/badge/license-Proprietary-ff00aa?style=for-the-badge)](./LICENSE)
-
-</div>
 
 ---
 
@@ -55,7 +49,5 @@ This repository contains the official legal documentation for the VoxVivid appli
 
 ---
 
-<div align="center">
 **Support & Contact**  
 For business inquiries or platform support, please reach out to the developer directly via the official dashboard.
-</div>
