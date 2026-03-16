@@ -13,7 +13,7 @@ VoxVivid provides advanced AI-powered content generation, identity mirroring, an
 
 ## 2. AI Content Ownership and Responsibility
 
-- **User Ownership:** You retain all rights to the media you generate and publish through VoxVivid, subject to the license terms of the underlying AI models (e.g., Google Gemini/Veo).
+- **User Ownership:** You retain all rights to the media you generate and publish through VoxVivid, subject to the license terms of the underlying AI models (e.g., Google Gemini/VoxVideo).
 - **Review Requirement:** You understand that content is generated using AI and may occasionally contain inaccuracies or "hallucinations." You are solely responsible for reviewing and approving all content before publication.
 - **Prohibited Content:** You agree not to use the Application to create or distribute:
   - Deepfakes or deceptive media intended to mislead or harm.

@@ -18,7 +18,7 @@ When you use VoxVivid, we may collect the following information:
 
 We use the collected data to:
 
-- **Generate AI Content:** Process your brand data through third-party AI models (e.g., Google Gemini and Veo) to generate marketing content.
+- **Generate AI Content:** Process your brand data through third-party AI models (e.g., Google Gemini and VoxVideo) to generate marketing content.
 - **Maintain State:** Use local browser storage to keep your active work-in-progress synced across page refreshes.
 - **Facilitate Publishing:** Connect to third-party social media platforms like TikTok for "Direct Post" functionality.
 - **Process Payments:** Manage your subscriptions and credits through Stripe.
@@ -30,7 +30,7 @@ We use the collected data to:
 
 VoxVivid relies on high-fidelity third-party infrastructure to deliver our services. Your data may be processed by:
 
-- **Google Cloud Platform:** For AI model execution (Gemini/Veo) and secure media storage (GCS).
+- **Google Cloud Platform:** For AI model execution (Gemini/VoxVideo) and secure media storage (GCS).
 - **Stripe:** For secure payment processing and subscription billing.
 - **TikTok:** For direct media publishing.
 - **Discord:** For webhook-based server notifications.
