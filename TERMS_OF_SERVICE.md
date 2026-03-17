@@ -28,6 +28,7 @@ The Application interacts with third-party platforms (e.g., TikTok, Discord, Goo
 ## 4. Limitation of Liability & "As-Is" Provision
 
 VoxVivid is provided "as is" and "as available." To the maximum extent permitted by law, we are not liable for:
+
 - API rate limits, account suspensions, or shadowbans on third-party platforms.
 - Errors, omissions, or suboptimal performance of AI-generated content.
 - Any damages resulting from the loss of access to your data or the Application.
