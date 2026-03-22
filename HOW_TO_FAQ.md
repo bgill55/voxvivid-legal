@@ -73,6 +73,20 @@ The Ad Lab is where you compose high-fidelity creative variants across Image, Vi
 
 ---
 
+## 6. Analytics & The Brand Performance Index
+Data is the currency of the Alchemist. The **Analytics** dashboard provides real-time feedback on how your Vivid content is performing.
+
+### Brand Performance Index (BPI)
+The **BPI** is a proprietary score (0-100) that measures your brand's overall resonance across all connected platforms. It factors in:
+- **DNA Consistency**: How well your content aligns with your Mirrored Identity.
+- **Engagement Velocity**: The speed of likes, shares, and comments.
+- **Conversion Drain**: How effectively your "Monetization Bridge" is converting views to clicks.
+
+### Content Insights
+- **Engagement Heatmaps**: See which "Vibe Modes" (Image vs. Reel) are performing best for your specific audience.
+- **Pilot Performance**: Track the success rate of content generated purely by your Pilot™ Producer.
+- **Conversion Attribution**: Precise tracking for any clicks coming through your **Vivid Bio** portal.
+
 ---
 
 ## 7. The Share Suite: Approved & Published
