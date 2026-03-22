@@ -11,14 +11,27 @@ Welcome to the **Vivid Studio**, your high-performance command center for AI-dri
 
 ---
 
-## 2. VoxMirror™: Brand DNA Extraction
-Before you create, you must **Mirror**. This process extracts your brand's "Sacred Truth" to ensure every AI-generated asset feels authentic.
+## 2. Vivid Studio: The Creative Cockpit
+The **Dashboard** (Vivid Studio) is where you define your brand and generate high-fidelity media across three distinct "Vibe Modes."
 
-### How to use:
-1. Go to the **Dashboard** or **Engine** tab.
-2. Enter your **URL** or a **Topic/Bio**.
-3. Click **Initialize Mirror**. 
-4. **DNA Lock**: Once complete, your **Tone**, **Campaign Anchors**, and **Visual Palette** are "Locked" into the Engine. 
+### The Blitz Bar (Identity & Prompts)
+- **Mirroring**: Paste a **URL** or a **Brand Bio** and click **Mirror Identity**. This scrapes your site for colors, fonts, and core values.
+- **Guidance**: Deep-link specific paths (e.g., `/about` or `/products`) to get more specialized DNA extraction.
+- **Manual Mode**: If a site is blocked or unavailable, use the **Manual Identity Input** to paste your own description.
+
+### Visual Context & Steering
+- **Uploads**: You can attach up to **3 images** (Visual Context) to the Studio. This "steers" the AI's aesthetic toward your specific product or style.
+- **Clearing**: Use the "Clear all" button to reset your visual steer and let the AI explore new directions.
+
+### Vibe Modes & Duration
+- **IMAGE**: High-resolution static assets for feed posts or ads.
+- **REEL**: Cinematic 9:16 video generation.
+- **CAMPAIGN**: A specialized mode for orchestrating multiple assets into a cohesive launch.
+- **VoxVideo Duration**: Choose between **Social Hook (6s)** for quick engagement or **Story Arc (10s)** for more complex narratives.
+
+### Premium Routing (Founders Choice)
+- **Standard**: Uses optimized hybrid models (Fal.ai) for fast, low-cost "Baking."
+- **Premium**: Toggles higher-fidelity models for "Masterpiece" level quality (Vox Video+ / Vox Image+). Look for the **Sparkles** icon to confirm Premium routing is active.
 
 ---
 
@@ -26,12 +39,27 @@ Before you create, you must **Mirror**. This process extracts your brand's "Sacr
 VoxVivid doesn't just "store" your brand; it **becomes** your brand. When your DNA is synced:
 - **White-Labeling**: The app's theme (colors, accents, and surfaces) automatically shifts to your brand palette.
 - **Brand Avatar**: Your logo replaces the default studio icon in the Sidebar.
-- **Studio Identity**: Your page title updates to `VoxVivid | [Your Brand] Studio`.
 - **Contrast Guard**: Our engine automatically adjusts text and button colors to ensure your brand's unique palette remains perfectly readable across all devices.
 
 ---
 
-## 4. The Ad Lab™: Infinite Creative
+## 4. Pilot™: Your Personal Producer
+Pilot is your hands-free content production team that works while you sleep.
+
+### Setup Wizard: Teaching the Soul
+1. **Onboarding**: If Pilot is paused, click **Unlock Your Producer** (Vivid+ feature) to start the **Setup Wizard**.
+2. **Brand Soul**: Use the wizard to "teach" Pilot about your ideal customer, your brand's voice, and your posting frequency.
+3. **Activation**: Once activated, Pilot begins a background "Mirroring Loop" to keep your content fresh.
+
+### Studio Execution & Intel
+- **Sync Studio**: Use the **Sync Studio** button on the Pilot page to force a refresh of your production state.
+- **Live Command Queue**: Monitor this queue to see exactly what Pilot is drafting, rendering, or scheduling.
+- **Pulse Intel**: Real-time market trends (Spikes) are automatically funneled into Pilot's decision engine to ensure your content is always trending.
+
+---
+
+## 5. The Ad Lab™: Specialized High-Conversion
+While the Studio is for general creation, the **Ad Lab** is a specialized laboratory for high-conversion advertising assets.
 The Ad Lab is where you compose high-fidelity creative variants across Image, Video, Music, and Voice.
 
 ### Core Workflows:
@@ -44,22 +72,6 @@ The Ad Lab is where you compose high-fidelity creative variants across Image, Vi
 - **Carousel Mode**: Toggle "Carousel" to create a cohesive story across multiple 4:5 or 9:16 cards.
 
 ---
-
-## 5. Pilot™: The Autonomous Producer
-Pilot is your personal production team that works while you sleep.
-
-### Setup & Execution:
-1. **Activation**: If Pilot is paused, click **Unlock Your Producer** (Vivid+ feature) and follow the **Setup Wizard**.
-2. **Command Queue**: Monitor the **Live Command Queue** for scheduled assets, approvals, and sync status.
-3. **Sync Studio**: Use the **Sync Studio** button to manually refresh your content queue with the latest market intelligence.
-
----
-
-## 6. Pulse™: Market Intelligence
-Pulse tracks trends and relevance scores in real-time.
-- **Spike %**: Indicates how fast a trend is growing.
-- **Relevance**: How well a trend aligns with your **Locked DNA**.
-- **Action**: High-relevance spikes should be used as prompts in the **Ad Lab** for maximum impact.
 
 ---
 
@@ -82,7 +94,27 @@ Once your creative is ready, the **Share Suite** gives you three ways to move fr
 
 ---
 
-## 8. Deep Edit: Refining Your Vision
+## 8. Vivid Bio™: The Infinite Landing Page
+The **Vivid Bio™** (or Vivid Portal) is your brand's autonomous landing page. It unifies your socials, your "Sacred DNA," and your products into a single, high-conversion destination.
+
+### How to Activate
+1. Go to **Settings** (Cog icon) > **Vivid Portal & Commerce**.
+2. Toggle **Public Profile Enabled**.
+3. **Your URL**: Once live, your portal is accessible at `voxvivid.com/bio/[yourname]`.
+
+### Customizing the Portal
+- **Social Hooks**: Add your handles for **Instagram**, **TikTok**, **X (Twitter)**, and **Discord** in the Settings panel.
+- **Monetization Bridge**: 
+  - Select your provider (**Stripe**, **Lemon Squeezy**, or **Custom Link**).
+  - Paste your **Checkout URL** (e.g., a Stripe Payment Link).
+  - This adds a prominent **"Support My Work"** (or custom) button to your bio page.
+
+### The Identity Reel
+Your Vivid Bio automatically showcases an **Identity Reel** at the bottom. This isn't just a static gallery—it's a live mirror of your **Approved & Scheduled** posts from the Studio, ensuring your landing page is always in sync with your latest creative work.
+
+---
+
+## 9. Deep Edit: Refining Your Vision
 The Ad Lab isn't just a "one-and-done" generator; it's a collaborative workspace. If a variant is close but not perfect, use **Deep Edit** to polish it.
 
 ### How to Refine (Changing the Prompt)
@@ -131,10 +163,10 @@ Your data is your competitive advantage. We protect it with a "Fort Knox" philos
 ### Q: Can I have multiple Brand Identities?
 **A:** Currently, each account supports one **Primary Brand DNA**. Extracting a new site will overwrite your existing DNA. For multi-brand support, please contact our Alchemist support team.
 
----
-
 ## 12. Pro Tips for the Alchemist
+- **Blitz Guide**: Use the **Dashboard** Blitz bar for general brand creation, and the **Ad Lab** for laser-focused ad variants.
+- **Pulse Integration**: Check your **Pulse™** feed daily. High-relevance spikes are the best prompts for Pilot to jump on.
+- **Vision for Video**: Always use a **Vision Lock** image when generating video ads. This acts as the "starting frame" for the AI video models and makes a world of difference (99% better results) compared to text-only video prompts.
 - **Dictation**: Use the **Mic** icon in the Ad Lab to dictate your prompts for a more fluid creative experience.
 - **Safe Areas**: Our 9:16 "Reels" view automatically accounts for UI overlays (like TikTok descriptions) so your creative is never obscured.
-- **Vision for Video**: Always use a **Vision Lock** image when generating video ads. This acts as the "starting frame" for the AI video models and makes a world of difference (99% better results) compared to text-only video prompts.
 - **Sacred Truth**: Always check your **Tone** and **Keywords** in Settings. These are the "guardrails" that prevent AI hallucinations.
