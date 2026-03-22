@@ -41,6 +41,12 @@ VoxVivid doesn't just "store" your brand; it **becomes** your brand. When your D
 - **Brand Avatar**: Your logo replaces the default studio icon in the Sidebar.
 - **Contrast Guard**: Our engine automatically adjusts text and button colors to ensure your brand's unique palette remains perfectly readable across all devices.
 
+### Studio Directive: You're In Control
+The **Studio Directive** is a specialized system prompt that "rides alongside" every generation and campaign. 
+- **The Gospel**: The AI treats your directive as an absolute rule. Use it to lock in your brand voice, ban specific corporate jargon, or set the overall "scene" for your content.
+- **How to Use**: Go to **Settings** (Cog icon) > **Studio Directive**.
+- **Example Directive**: *"Always emphasize our 'Artisanal Quality'. Avoid using corporate jargon. Focus on the human element of our service."*
+
 ---
 
 ## 4. Pilot™: Your Personal Producer
