@@ -40,8 +40,8 @@ The **VoxMirror™** engine (accessed via the Dashboard) is where you define you
 
 ### Premium Routing (Founders Choice)
 
-- **Standard**: Uses optimized hybrid models (Fal.ai) for fast, low-cost "Baking."
-- **Premium**: Toggles higher-fidelity models for "Masterpiece" level quality (Vox Video+ / Vox Image+). Look for the **Sparkles** icon to confirm Premium routing is active.
+- **Standard**: Uses optimized hybrid models for fast, low-cost "Baking."
+- **Premium**: Toggles higher-fidelity models for "Masterpiece" level quality (**Vox Video+** / **Vox Image+**). Look for the **Sparkles** icon to confirm Premium routing is active.
 
 ---
 
@@ -83,15 +83,15 @@ VoxPilot™ is your hands-free content production team that works while you slee
 While the Studio is for general creation, the **VoxAd Lab™** is where you compose high-fidelity creative variants across Image, Video, Music (**VoxMusic™**), and Voice (**VoxVoice™**).
 
 ### The Vibe Bake System (Audio & Vision)
-- **VoxMusic™ (Lyria AI)**: Toggle "Music" to generate a unique 48kHz sonic backdrop.
-- **VoxVoice™ (ElevenLabs)**: Toggle "Voice" to add a professional, brand-tone voiceover.
+- **VoxMusic+**: Toggle "Music" to generate a unique 48kHz sonic backdrop.
+- **VoxVoice**: Toggle "Voice" to add a professional, brand-tone voiceover.
 
 ### Core Workflows:
 - **Magic Draft™**: Use the "Refresh Ideas" button to get AI-suggested prompts tailored to your brand.
 - **Vibe & Vision**: 
   - **Vision Lock**: Upload a product image to anchor the AI's visual generation to your actual product. **Highly recommended for video**: Providing a starting image acts as a "seed frame," resulting in 99% better video consistency.
-  - **VoxMusic (Lyria AI)**: Toggle "Music" to generate a unique sonic backdrop.
-  - **VoxVoice (ElevenLabs)**: Toggle "Voice" to add a professional voiceover.
+  - **VoxMusic+**: Toggle "Music" to generate a unique sonic backdrop.
+  - **VoxVoice**: Toggle "Voice" to add a professional voiceover.
 - **Storming**: Click **Storm More** to generate up to 12 variations of a single concept.
 - **Carousel Mode**: Toggle "Carousel" to create a cohesive story across multiple 4:5 or 9:16 cards.
 
@@ -197,7 +197,7 @@ Your data is your competitive advantage. We protect it with a "Fort Knox" philos
 ## 11. FAQ: Frequently Asked Questions
 
 ### Q: Why does DNA extraction take 45-60 seconds?
-**A:** We use a "Creative Cascade" of flagship AI models (Gemini Pro, GLM-5). These models perform deep visual and textual analysis in parallel to ensure 99% brand consistency.
+**A:** We use a "Creative Cascade" of flagship **Vox Intelligence** models. These models perform deep visual and textual analysis in parallel to ensure 99% brand consistency.
 
 ### Q: I'm seeing a "Session version conflict" error. What happened?
 **A:** VoxVivid enforces a **Single Active Session** for security. If you log in on a new device or tab, your previous session is invalidated to protect your Brand DNA. Simply refresh to continue in your newest session.
@@ -222,8 +222,8 @@ Your data is your competitive advantage. We protect it with a "Fort Knox" philos
 | **VoxAudit™** | Anti-Cringe Reviewer & Compliance Scoring |
 | **VoxPulse™** | Viral Intelligence & Niche Trend Surveillance |
 | **VoxShare™** | Multi-Platform Delivery & Secure Codes |
-| **VoxMusic™** | Cinema-Grade 48kHz Stereo Audio Synthesis |
-| **VoxVoice™** | Ultra Low Latency Brand-Tone TTS |
+| **VoxMusic+** | Cinema-Grade 48kHz Stereo Audio Synthesis |
+| **VoxVoice** | Ultra Low Latency Brand-Tone TTS |
 
 ---
 
