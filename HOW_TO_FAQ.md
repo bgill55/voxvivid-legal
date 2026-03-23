@@ -79,8 +79,14 @@ VoxPilot™ is your hands-free content production team that works while you slee
 
 ---
 
-## 5. VoxAd Lab™: The Creative Core
-While the Studio is for general creation, the **VoxAd Lab™** is where you compose high-fidelity creative variants across Image, Video, Music (**VoxMusic™**), and Voice (**VoxVoice™**).
+## 5. VoxAd Lab™: The Creative Core (Ad & Content Creation)
+While the Studio is for general **Content Creation** (social posts, reels, and brand assets), the **VoxAd Lab™** is where you compose high-fidelity **Ad Creation** variants across Image, Video, Music (**VoxMusic™**), and Voice (**VoxVoice™**).
+
+### The "Invisibly Magic" User Video Upload
+For the first time, you can now bring your own raw footage into the Alchemist pipeline.
+- **How to Use**: Drag and drop any video (MP4, MOV, WebM up to 300MB) into the **Ad Lab** upload zone.
+- **The Bake**: Our engine automatically "bakes" your video—listening for existing speech, analyzing visuals, and overlaying a profession brand-tone voice and cinematic music track.
+- **Result**: You get a studio-quality ad variant in seconds, perfectly synced to your Brand DNA.
 
 ### The Vibe Bake System (Audio & Vision)
 - **VoxMusic+**: Toggle "Music" to generate a unique 48kHz sonic backdrop.
