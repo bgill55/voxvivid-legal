@@ -1,6 +1,6 @@
 # Privacy Policy for VoxVivid
 
-**Last Updated:** March 11, 2026
+**Last Updated:** March 28, 2026
 
 VoxVivid ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our application to interact with third-party social media platforms and AI services.
 
@@ -23,6 +23,10 @@ We use the collected data to:
 - **Facilitate Publishing:** Connect to third-party social media platforms like TikTok for "Direct Post" functionality.
 - **Process Payments:** Manage your subscriptions and credits through Stripe.
 - **Community Notifications:** Send automated updates to connected Discord channels via webhooks.
+
+### 2.3 Model Improvement & The Closed-Loop Refinement Protocol
+
+To ensure the "Elite" standard of performance, we utilize anonymized artifacts produced by our internal engines to refine and optimize our proprietary algorithms. **We do not use your private Identity Mirroring Data, uploaded source assets, or personal brand strategy for the training of public models.** This optimization loop relies solely on anonymized system-generated results to improve future output fidelity for all users.
 
 **We do not sell, rent, or share your data with third parties for their independent marketing purposes.**
 

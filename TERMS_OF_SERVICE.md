@@ -1,6 +1,6 @@
 # Terms of Service for VoxVivid
 
-**Last Updated:** March 11, 2026
+**Last Updated:** March 28, 2026
 
 By using VoxVivid ("the Application"), you agree to the following terms and conditions. These terms govern your use of our AI-powered branding suite and publishing tools.
 
@@ -9,7 +9,7 @@ By using VoxVivid ("the Application"), you agree to the following terms and cond
 VoxVivid provides advanced AI-powered content generation, identity mirroring, and social media publishing tools.
 
 - **Eligibility:** You must be at least 18 years old to use the Application.
-- **Subscriptions:** Access to premium features (Alchemist tier) requires a paid subscription processed via Stripe. All billing is subject to Stripe's terms. Refunds are handled on a case-by-case basis through support.
+- **Subscriptions:** Access to premium features (Elite tier) requires a paid subscription processed via Stripe. All billing is subject to Stripe's terms. Refunds are handled on a case-by-case basis through support.
 
 ## 2. AI Content Ownership and Responsibility
 
@@ -36,7 +36,7 @@ VoxVivid is provided "as is" and "as available." To the maximum extent permitted
 ## 5. Watermarking
 
 - **Standard Tiers:** AI-generated media may include a "VoxVivid" watermark to attribute the source and prevent misuse.
-- **Alchemist Tier:** Users on the Alchemist tier may toggle the watermark off for their exports. You agree not to use this feature to impersonate others or distribute harmful misinformation.
+- **Elite Tier:** Users on the Elite tier may toggle the watermark off for their exports. You agree not to use this feature to impersonate others or distribute harmful misinformation.
 
 ## 6. Account Termination
 

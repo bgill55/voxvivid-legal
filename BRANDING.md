@@ -14,9 +14,9 @@ All high-fidelity assets are located in `/public/branding`:
 
 | Element | Specification |
 |---------|---------------|
-| **Core Accent** | `#9d00ff` (Purple) |
-| **Secondary Accent** | `#00f5ff` (Cyan) |
-| **Background** | `#0a0a0a` (Obsidian) |
+| **Core Accent** | `#10b981` (Emerald) |
+| **Secondary Accent** | `#06b6d4` (Cyan) |
+| **Background** | `#080808` (Obsidian) |
 | **Typography** | Space Grotesk (Headings), Inter (Body) |
 
 ## 🚀 Usage
