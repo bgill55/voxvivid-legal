@@ -13,6 +13,8 @@
 
 VoxVivid™ v5.2.0 is powered by the **Sovereign Suite**, a unified ecosystem of 8 autonomous engines designed to synchronize your brand DNA across the digital landscape with zero friction.
 
+![VoxVivid v5.2.0 Architectural Blueprint](./assets/Vivid_blueprint_5.2.0.png)
+
 ---
 
 ## 💎 What is VoxVivid?

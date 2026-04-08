@@ -6,7 +6,7 @@ Welcome to the **Vivid Studio**, your high-performance command center for AI-dri
 
 ## 🏗️ Sovereign Architectural Blueprint
 
-![VoxVivid v5.2.0 Blueprint](./assets/Vivid_blueprint_3.26.png)
+![VoxVivid v5.2.0 Blueprint](./assets/Vivid_blueprint_5.2.0.png)
 
 ---
 
